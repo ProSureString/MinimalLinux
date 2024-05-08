@@ -29,7 +29,8 @@ To build and run the distro, follow these steps:
 - Open a terminal and navigate to the directory above the /distro directory.
 - The filesystem should look like this:
 - ```
-  Makefile
+  Working Directory
+  ├──────>Makefile
   └──────>/distro
   ```
 - Run the following command to start the build process:
