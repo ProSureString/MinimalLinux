@@ -52,8 +52,9 @@ This will launch the minimal Linux distro, providing you with a lightweight envi
 
 ## Credits
 [Buildroot](https://buildroot.org/) - The build system used for creating the minimal Linux distro.
-[build-anywhere](https://github.com/theopolis/build-anywhere) - A helpful tool for building the distro in any environment.
 
-Please feel free to reach out to `linuxminimaloshelp@prosurestring.xyz` if you have any questions or need further assistance!
+[build-anywhere](https://github.com/theopolis/build-anywhere) - An extremely helpful package with gcc and the likes.
+
+Please feel free to shoot an email to `linuxminimal-oshelp@prosurestring.xyz` if you have any questions or need some help!
 
 `Note: The above instructions assume you are using an Ubuntu-based system. Adjust the package installation commands accordingly if you are using a different Linux distribution.`
